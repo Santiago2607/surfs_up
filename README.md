@@ -20,3 +20,14 @@ In order to achieve this goal, W. Avy asked us to do an analysis of the weather 
 
 ## Summary
 
+As part of giving W.Avy the best material and information possible about the Surf and Shake shop, we have created two more queries with tables that represent the precipitation calculation for the months of June and December.
+
+* In June, we can see that the minimum and maximum inches of precipitation go from 0.00 to 4.43 respectively and the average precipitation is 0.13 inches.
+
+![image](https://user-images.githubusercontent.com/113261292/204962038-4538d01c-ef19-4e76-bf90-74b624c7ecee.png)
+
+* In December, we can see that the minimum and maximum inches of precipitation are 0.00 and 6.42 respectively and the average precipitation is about 0.21 inches.
+
+![image](https://user-images.githubusercontent.com/113261292/204962160-90a6a53c-0c77-4278-8798-88f9290d9743.png)
+
+All these tables not only show us how different the climate changes during different seasons of the year are but that during any month of the year we want to start our project, we will already know what climate changes we'll be facing and how to turn any disadvantage into an advantage for the new store.
